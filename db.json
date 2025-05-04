@@ -1,0 +1,12 @@
+{
+    "login":[
+        {
+            "email":"suman@gmail.com",
+            "password":"suman123"
+        },
+        {
+            "email":"s@gmail.com",
+            "password":"s123"
+        }
+    ]
+}
